@@ -1,0 +1,6 @@
+export {default as Blog} from './blog/Blog'
+export {default as WhatGPT3} from './WhatGPT3/WhatGPT3'
+export {default as Feautures} from './feautures/Feautures'
+export {default as Header} from './header/Header'
+export {default as Footer} from './footer/Footer'
+export {default as Possibility} from './Possibility/Possibility'
